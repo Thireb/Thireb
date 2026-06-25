@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Thireb/Thireb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,14 +14,55 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Thireb 👋
+# Hi there, I'm Ahmad (Thireb) 👋
 
-Full-Stack Developer focused on building clean, structured backend architectures and scalable automation workflows.
+I am a **Full-Stack Django Developer** and registered freelancer specializing in building robust web applications, optimized backend architectures, and automated software solutions. 
 
-### 🛠️ Core Stack
-*   **Languages:** ![Python](...badge...) ![JavaScript](...badge...)
-*   **Frameworks:** ![Django](...badge...) ![FastAPI](...badge...)
-*   **Environments:** ![Linux](...badge...) ![Docker](...badge...)
+Beyond traditional web stacks, I focus heavily on workflow automation, building custom backend infrastructures, and orchestrating local Large Language Models (LLMs) to streamline developer productivity.
 
-### 📈 Current Focus
-I'm currently diving deep into local LLM orchestration and building custom autonomous workflow agents.
+---
+
+## 🛠️ Tech Stack & Ecosystem
+
+### 💻 Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases & Orchestration
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🔧 Development Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+---
+
+## ⚡ Current Focus & Engineering Interests
+
+*   **Advanced AI Workflows:** Designing autonomous agent pipelines, building structured graph-based execution layers, and fine-tuning local model environments.
+*   **System Optimization:** Developing tailored automation scripts and optimizing package management/kernel configurations on Arch-based Linux distributions.
+*   **Scalable Loggers & Systems:** Engineering robust relational database designs and tracking systems optimized for specific industry logistics.
+
+---
+
+## 📊 Live GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thireb&show_icons=true&theme=radial&hide_border=true" alt="Thireb's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thireb&layout=compact&theme=radial&hide_border=true" alt="Thireb's Top Languages" width="48%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+*   **Available for:** Freelance contracts, backend system consulting, and API architecture planning.
+*   **How to reach me:** Shoot me a message directly via GitHub or open an issue if you're looking to collaborate on automation tools!
+
+<p align="center">
+  <i>"Automating the boring stuff so we can engineer the interesting stuff."</i>
+</p>
