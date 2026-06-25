@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Thireb 👋
+
+Full-Stack Developer focused on building clean, structured backend architectures and scalable automation workflows.
+
+### 🛠️ Core Stack
+*   **Languages:** ![Python](...badge...) ![JavaScript](...badge...)
+*   **Frameworks:** ![Django](...badge...) ![FastAPI](...badge...)
+*   **Environments:** ![Linux](...badge...) ![Docker](...badge...)
+
+### 📈 Current Focus
+I'm currently diving deep into local LLM orchestration and building custom autonomous workflow agents.
