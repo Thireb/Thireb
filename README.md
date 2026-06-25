@@ -49,9 +49,12 @@ Beyond traditional web stacks, I focus heavily on workflow automation, building 
 
 ---
 
-### 🚀 At a Glance
-![Typing Animation](https://icon.mzrdev.com/typing?text=Building+Robust+Django+Backends;Orchestrating+Local+LLMs;Optimizing+Linux+Environments;Automating+Complex+Workflows&font=Fira+Code&height=45&color=1793D1)
+## 📊 Ecosystem Analytics
 
+![Thireb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thireb&layout=compact&theme=radial)
+
+### 🏆 Milestones & Achievements
+![](https://github-profile-trophy.vercel.app/?username=Thireb&theme=radial&column=4)
 ---
 
 ## 🤝 Let's Connect
