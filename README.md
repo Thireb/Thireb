@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a **Full-Stack Django Developer** and registered freelancer specializing in building robust web applications, optimized backend architectures, and automated software solutions. 
 
-Beyond traditional web stacks, I focus heavily on workflow automation, building custom backend infrastructures, and orchestrating local Large Language Models (LLMs) to streamline developer productivity.
+Beyond traditional web frameworks, I focus heavily on workflow automation, building custom backend infrastructures, and orchestrating local Large Language Models (LLMs) to maximize system efficiency.
 
 ---
 
@@ -41,26 +41,18 @@ Beyond traditional web stacks, I focus heavily on workflow automation, building 
 
 ---
 
-## ⚡ Current Focus & Engineering Interests
+## ⚡ Engineering Focus & Core Competencies
 
-*   **Advanced AI Workflows:** Designing autonomous agent pipelines, building structured graph-based execution layers, and fine-tuning local model environments.
-*   **System Optimization:** Developing tailored automation scripts and optimizing package management/kernel configurations on Arch-based Linux distributions.
-*   **Scalable Loggers & Systems:** Engineering robust relational database designs and tracking systems optimized for specific industry logistics.
+*   🚀 **Advanced AI Workflows:** Designing autonomous agent pipelines, building structured graph-based execution layers, and fine-tuning local model performance environments.
+*   ⚙️ **System Optimization:** Developing tailored automation scripts and optimizing package management or kernel configurations on Arch-based Linux distributions.
+*   📦 **Scalable System Design:** Engineering robust relational database schemas and reliable custom background logging architectures optimized for industry logistics tracking.
 
----
-
-## 📊 Ecosystem Analytics
-
-![Thireb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thireb&layout=compact&theme=radial)
-
-### 🏆 Milestones & Achievements
-![](https://github-profile-trophy.vercel.app/?username=Thireb&theme=radial&column=4)
 ---
 
 ## 🤝 Let's Connect
 
 *   **Available for:** Freelance contracts, backend system consulting, and API architecture planning.
-*   **How to reach me:** Shoot me a message directly via GitHub or open an issue if you're looking to collaborate on automation tools!
+*   **Collaboration:** Feel free to open an issue or reach out if you want to collaborate on open-source automation tools, Python scripts, or system utilities!
 
 <p align="center">
   <i>"Automating the boring stuff so we can engineer the interesting stuff."</i>
